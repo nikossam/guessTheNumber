@@ -1,0 +1,16 @@
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\nikos\Desktop\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
